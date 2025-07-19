@@ -1,0 +1,12 @@
+body {
+    padding-top: 160px;
+}
+
+.external_method {
+    background-color: red;
+    color: white;
+    font-size: 22px;
+    text-align: center;
+    font-weight: bold;
+    ;
+}
